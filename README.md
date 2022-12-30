@@ -23,6 +23,7 @@ This project involves the design and implementation of a rotary inverted pendulu
     
 3. Get the gain of LQR by using the mathematical model built on Matlab 
 4. Use the hardware in loop as follows :.![image](https://user-images.githubusercontent.com/81301684/209944508-2076fb9c-0b63-4146-bc5e-c6d17b49314f.png) <br>
+5. You can use the gain button to enable or disable the analog pwm signal which activates and diactivates the motor
 
 
 
