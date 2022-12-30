@@ -20,8 +20,10 @@ This project involves the design and implementation of a rotary inverted pendulu
     3. Import the reading in the Matlab
     4. Build a simulated model using simscape library as the following fig: ![image](https://user-images.githubusercontent.com/81301684/209942131-afcef869-960e-4c80-8c42-cd1c56d04ce5.png)
     5. Using the Parameter-Estimator app of simulink to match the parameters between simulated and real data
+    
 3. Get the gain of LQR by using the mathematical model built on Matlab 
-4. Use the hardware in loop as follows :![image](https://user-images.githubusercontent.com/81301684/209944508-2076fb9c-0b63-4146-bc5e-c6d17b49314f.png) <br>
+4. Use the hardware in loop as follows :
+<br>![image](https://user-images.githubusercontent.com/81301684/209944508-2076fb9c-0b63-4146-bc5e-c6d17b49314f.png) <br>
 
 
 
