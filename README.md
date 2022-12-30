@@ -22,7 +22,7 @@ This project involves the design and implementation of a rotary inverted pendulu
     5. Using the Parameter-Estimator app of simulink to match the parameters between simulated and real data
     
 3. Get the gain of LQR by using the mathematical model built on Matlab 
-4. Use the hardware in loop as follows : 
+4. Use the hardware in loop as follows :
 <br>
 <br>![image](https://user-images.githubusercontent.com/81301684/209944508-2076fb9c-0b63-4146-bc5e-c6d17b49314f.png) <br>
 
