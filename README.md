@@ -41,7 +41,8 @@ This project involves the design and implementation of a rotary inverted pendulu
 
  [**Real-life video**](https://bit.ly/3Z7MPj8) 
 <br />
-
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://bit.ly/3Z7MPj8)
+<br />
 https://user-images.githubusercontent.com/81301684/209939626-c5e16321-2852-4be7-b2b8-c4163fcaf9ac.mp4
 
 
